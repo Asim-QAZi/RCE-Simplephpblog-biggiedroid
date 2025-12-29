@@ -101,6 +101,17 @@ http://127.0.0.1/image/shell.php?cmd=dir
 The server executes OS commands and returns output, confirming **Remote Code Execution**.
 
 ------
+# Proof of Concept
+1. Product Page
+![[ProductPage](/images/product_page.jpg)
+2. Upload Shell from this location.
+![[shell](/images/cms.png)
+3. Shell PHP
+![[ProductPage](/images/shell_php.png)
+4. Remote Code Execution
+![[rce](/images/cmd_execute.png)
+5. Vulnerable Code
+![code](/images/code.png)
 
 ##  Impact
 
