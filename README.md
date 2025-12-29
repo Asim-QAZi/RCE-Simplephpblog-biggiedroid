@@ -103,15 +103,15 @@ The server executes OS commands and returns output, confirming **Remote Code Exe
 ------
 # Proof of Concept
 1. Product Page
-![[ProductPage](/images/product_page.jpg)
+![[ProductPage](/images/product_page.JPG)
 2. Upload Shell from this location.
-![[shell](/images/cms.png)
+![[shell](/images/cms.PNG)
 3. Shell PHP
-![[ProductPage](/images/shell_php.png)
+![[ProductPage](/images/shell_php.PNG)
 4. Remote Code Execution
-![[rce](/images/cmd_execute.png)
+![[rce](/images/cmd_execute.PNG)
 5. Vulnerable Code
-![code](/images/code.png)
+![code](/images/code.PNG)
 
 ##  Impact
 
