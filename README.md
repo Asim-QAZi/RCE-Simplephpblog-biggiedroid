@@ -166,7 +166,7 @@ This vulnerability can lead to **complete server takeover**.
 
 ------
 
-## 🧑‍💻 Researcher
+## 🧑‍💻 Discovered By
 
-**Mo Asim**
-Student | Security Researcher
+* **Mo Asim**
+* Student | Security Researcher
