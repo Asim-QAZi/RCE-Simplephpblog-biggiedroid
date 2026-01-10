@@ -169,5 +169,6 @@ This vulnerability can lead to **complete server takeover**.
 ## 🧑‍💻 Discovered By
 
 * **Mo Asim** also known as **Asim Qazi**
+* Github: @Asim-Qazi
 * Linkedin: [Asim Qazi](https://www.linkedin.com/in/masimqazi)
 * Student | Security Researcher
